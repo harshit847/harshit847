@@ -35,6 +35,3 @@
 - LinkedIn: https://www.linkedin.com/in/harshit-rai-576617274
 - Portfolio: https://harshitsportfolio.onrender.com
 
-## 📊 GitHub Stats
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit847&show_icons=true&theme=default)
