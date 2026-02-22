@@ -9,10 +9,16 @@
 - Express.js, Git, REST APIs
 - HTML, CSS
 
-## 📌 Projects
-- Chat App (MERN + Socket.io)
-- Resume Analyzer (AI + Node)
-- E-commerce Project (Node + Express)
+## 🚀 Projects
+
+- 🔹 Chat App (MERN + Socket.io)  
+  👉 https://github.com/harshit847/chatty-app
+
+- 🔹 Resume Analyzer (AI + Node)  
+  👉 https://github.com/harshit847/SmartResumeAI
+
+- 🔹 E-commerce Project  
+  👉 https://github.com/harshit847/Scatch
 
 ## 🌱 Currently Learning
 - TypeScript, Next.js, System Design
