@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I am Harshit Rai
 
-<!--
-**harshit847/harshit847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN | React | Node.js
 
-Here are some ideas to get you started:
+💻 I love building real-world web apps and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- JavaScript, React, Node.js, MongoDB
+- Express.js, Git, REST APIs
+- HTML, CSS
+
+## 📌 Projects
+- Chat App (MERN + Socket.io)
+- Resume Analyzer (AI + Node)
+- E-commerce Project (Node + Express)
+
+## 🌱 Currently Learning
+- TypeScript, Next.js, System Design
+
+## 📫 Contact Me
+- Email: harshit331@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshit-rai-576617274
+- Portfolio: https://harshitsportfolio.onrender.com
