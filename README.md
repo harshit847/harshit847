@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Harshit Rai
+# 👋 Hi, I am Harshit Rai
 
 ### Full Stack Developer • Backend Engineer • AI Applications
 
